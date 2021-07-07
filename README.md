@@ -7,3 +7,5 @@ The agent works by calling the choose_next_state() function, which then calls ma
 
 This is the cost function used for the distance, its negative as long as the x is higher than 30, when it reaches 30 or less it goes up exponentially.
 ![image](https://user-images.githubusercontent.com/49645682/124759166-a33be300-df2f-11eb-882e-6efb378c9502.png)
+
+Link for the simulator: https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2
